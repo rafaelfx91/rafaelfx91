@@ -1,25 +1,73 @@
-### Hi welcome to my perfil 
+### Engenheiro de Software | Analista DBM | Consultor Salesforce & SAS
 
-### Database: 
-Oracle, MySql, Microsoft Sql Server, Firebird, Postgresql
+---
 
-### Language: 
-C#, Python, C, C++, PHP, ,Shell, JavaScript, Delphi, NodeJs
+### 🚀 Sobre Mim
 
-### Version code control: 
-Git, GitHub
+Engenheiro de Software e Analista DBM com vasta experiência em grandes players do mercado (Claro, Zanthus, Build Solutions). Atuo na interseção crítica entre **código de alta performance** e **inteligência de dados**, desenvolvendo desde softwares de missão crítica (PDV/Fiscal) até jornadas complexas de CRM.
 
-### Methodology: 
-Scrum, Kanban
+- 🔭 Atualmente trabalhando como **Consultor DBM & Dev** para projetos na **Claro / Claro Pay**.
+- ⚙️ Expertise em sistemas de alta volumetria e automação de marketing.
+- 🛡️ Foco em **Security Awareness** (Pentest, OWASP, Nmap).
+- 💬 Pergunte-me sobre: **Salesforce, SAS, SQL, Oracle, C# e Python**.
 
-### Oeracional Sistem: 
-Linux, Windows, Linux Mint, Arch linux, Debiam, Ubuntu, Kali Linux
+---
 
-### Resume
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,c,cs,cpp,cloudflare,dotnet,godot,html,js,mysql,php,py,mysql,vscode,git,github,mint,arch,linux,windows&perline=10)](https://skillicons.dev)
+### 🛠️ Tecnologias & Habilidades
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfx91&layout=compact&show_icons=true&theme=dark)](https://github.com/rafaelfx91/github-readme-stats)
+<p align="left">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <br>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br>
+  <!-- CRM & Data -->
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/SAS-0078D4?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+</p>
 
+---
 
+### 📁 Projetos em Destaque
 
+- **[Plusoft Dash Automation](https://github.com/rafaelfx91/CSharp-DashCampanhas)**: Automação de validação de dados para mailings em massa em C#.
+- **[API Manager Integradora](https://github.com/rafaelfx91/Python-Projeto_integrador)**: API robusta com Flask e MySQL para gerenciamento de usuários e estoques.
+- **[ESP32 Crypto Miner](https://github.com/rafaelfx91/CPP-Esp32Miner)**: Minerador de criptomoedas implementado em sistema embarcado (C++).
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelfx91&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfx91&layout=compact&theme=dark" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafael-marcon-965649a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/rafaelmarcon" target="_blank">
+    <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer" />
+  </a>
+  <a href="https://wa.me/5519989244512" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:rafaelmarcon@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+*✨ "Inteligência em Dados & Tecnologia" - [Visite meu Portfólio](https://rafaelfx91.github.io/rafaelm/DevTi_Portfolio/index.html)*
